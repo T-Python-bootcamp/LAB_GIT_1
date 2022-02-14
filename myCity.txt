@@ -1,0 +1,4 @@
+Riyadh city:
+Province: Riyadh
+Population: 7.7m
+area: 2m 
