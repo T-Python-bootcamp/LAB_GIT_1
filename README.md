@@ -2,7 +2,7 @@
 
 ## Using what you learned about git and command line , do the following :
 
-- Fork the reop.
+- Fork this reop.
 - Clone the repo your forked to your local machine.
 - Add a new file "myCity.txt" , and fill it in with a description about your city.
 - add & commit the new changes.
