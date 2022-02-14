@@ -1,4 +1,4 @@
-# LAB_GIT_1
+# LAB_GIT_2
 
 ## Using what you learned about git and command line , do the following :
 
